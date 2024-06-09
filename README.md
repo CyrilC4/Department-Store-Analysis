@@ -11,3 +11,4 @@ This Department store analysis project aims to perform a detailed analysis of sa
 ### Data Source
 Department Store dataset: The primary dataset used for this analysis is the "Department Store Dataset csv" file, containing detailed information about this department store.
 
+[department_store_dataset.csv](https://github.com/user-attachments/files/15752771/department_store_dataset.csv)
